@@ -1,0 +1,115 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap");
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    background-color: #eee;
+    font-weight: 400;
+}
+address {
+    background-color: #b1b1b1;
+    padding: 10PX 0 10PX 20PX;
+    font-style: normal;
+    font-size: 12px;
+}
+img {
+    height: 50px;
+    align-content: center;
+}
+.menu {
+    background-color: #e1e1e1;
+    padding: 30px;
+}
+.menu li {
+    display: inline-block;
+    font-weight: 600;
+}
+a {
+    text-decoration: none;
+    color: rgb(107, 107, 107);
+    padding-right: 20px;
+}
+#login {
+    float: right;
+    display: flex;
+    margin-top: 28px;
+    margin-right: 20px;
+    font-weight: 600;
+}
+#register a {
+    background-color: #0071e29c;
+    border-radius: 10px;
+    padding: 15px;
+    margin-right: 10px;
+    color: #383838;
+}
+.s-cont {
+    float: right;
+    margin-top: 20px;
+    margin-right: 100px;
+}
+.s-cont input {
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+.s-cont button{
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+#logo {
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.container {
+    padding: 100px 480px;
+}
+.register {
+    background-color: #e1e1e1;
+    padding: 50px 100px;
+    border-radius: 10px;
+}
+.register input{
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+    display: block;
+}
+.register select{
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+    display: block;
+}
+.register textarea {
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+    display: block;
+}
+.register button {
+    padding: 15px 40px;
+    margin: 30px 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: #8d8d8d;
+    font-size: 14px;
+}
+footer {
+    background-color: #b1b1b1;
+    padding: 10px;
+}
+footer p{
+    font-weight: 600;
+}
+

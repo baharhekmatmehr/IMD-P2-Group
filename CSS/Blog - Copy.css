@@ -1,0 +1,69 @@
+/* page oreginal */
+
+body{
+    background-color: #a5a58d;    
+}
+nav{
+    background-color: rgb(120, 26, 209);
+    border-radius: 30px;
+}
+/*.img {
+    float: left;
+}*/
+li{
+    display: inline-block;
+    padding: 45px;
+    font-size: 0.5cm;
+}
+.ragnar{
+    height:450px;
+    width: 450px;
+}
+.text{
+    display: flex;
+}
+.figtitle{
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    color: rgb(6, 9, 44);
+    display: block;
+}
+/* .sc{
+    display: block;
+    margin: auto;
+    height: 500px;
+    width: 400px;
+} */
+.left{
+    float:left;
+    margin-right: 10px;
+    height: 450px;
+    width: 450px;
+}
+.handwriting{
+    margin: 4px;
+    height: 450px;
+    width: 450px;
+}
+.hd2{
+    margin:5px;
+    height: 450px;
+    width: 450px;
+}
+#content{
+    width: 50px;
+    margin-right: 250px;
+    float: right;
+
+}
+#mainnav{
+    width: 700px;
+    float: left;
+}
+.pp2, .pp3, .pp4, .pp5, .pp6{ 
+    text-align: right;
+}
+.image {
+    float: left !important; 
+}
